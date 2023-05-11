@@ -12,4 +12,4 @@ Console.WriteLine($"Middle Initial: {middleInitial}");
 Console.WriteLine($"Is Over 18: {isOver18}");
 Console.WriteLine($"Current Temp: {currentTemp}");
 Console.WriteLine($"Current Price: {currenetPrice}"); 
-// done 
+// done all 
